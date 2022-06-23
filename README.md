@@ -1,5 +1,3 @@
-[![Java CI with Gradle](https://github.com/Thomas-Mildner/DebuggingSamples/actions/workflows/gradle.yml/badge.svg)](https://github.com/Thomas-Mildner/DebuggingSamples/actions/workflows/gradle.yml)
-
 # DebuggingSamples
 
 Sample repository with code snippets to practice debugging with IntelliJ IDEA
