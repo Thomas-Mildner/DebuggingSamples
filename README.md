@@ -81,13 +81,13 @@ Point 2) demonstrates the named breakpoints.
   >
   > ### Better:
   >
-  > > Could not cast value of type _ to type _
+  > > Could not cast value of type \* to type \*
   > >
   > > > About 1.550.000.000 results (0,51 seconds)
   >
   > ### Further Improvement:
   >
-  > > site: stackoverflow.com solved Could not cast value of type _ to type _
+  > > site: stackoverflow.com solved Could not cast value of type \* to type \*
   > >
   > > > About 4.420.000 results (1,02 seconds) --> StackOverflow Entry with solved question is first result
 
@@ -108,7 +108,7 @@ Point 2) demonstrates the named breakpoints.
   >
   > > Show results for Java Spring Boot Courses on Udemy
   >
-  > -site: udemy "java RestApi\*"
+  > -site: udemy "java RestApi \*"
   >
   > > Search on Udemy for Java RestAPI results
   >
