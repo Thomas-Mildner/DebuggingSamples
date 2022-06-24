@@ -4,6 +4,41 @@ Sample repository with code snippets to practice debugging with IntelliJ IDEA
 
 # Examples
 
+## How to debug
+<br>
+
+![](doc/Images/StartDebuggingSession.gif)
+
+Start your Application in Debug Mode
+>Shortcut:
+>> SHIFT + F9
+>
+or press the green arrow and select "Debug Main". <br> <br>
+![](doc/Images/StartSession.PNG)
+
+Set a breakpoint at any called position where you want to stop the application.
+>
+>> CTRL + F8
+>
+
+Step trough your app and inspect your variables & application behavior
+> Shortcut:
+>> F8
+>
+
+Continue execution of program
+> Shortcut:
+>> F9
+> 
+
+Terminate debugging session
+> Shortcut
+> CTRL + F2
+>
+
+<br>
+<br>
+
 ## Breakpoints
 
 Breakpoints are special markers in the development environment that stop regular program execution at a desired point. This allows the developer to examine the program state and behavior to detect errors and incorrect behavior.
